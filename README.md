@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
