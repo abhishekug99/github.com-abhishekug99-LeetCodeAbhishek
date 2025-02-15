@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1827-invalid-tweets) |
 ## Tree
 |  |
 | ------- |
