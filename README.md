@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -86,9 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
