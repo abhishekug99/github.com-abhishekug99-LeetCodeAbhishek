@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0605-can-place-flowers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0605-can-place-flowers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0605-can-place-flowers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
