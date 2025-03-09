@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0649-dota2-senate) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -151,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
