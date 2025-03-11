@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Array
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1477-product-of-the-last-k-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
