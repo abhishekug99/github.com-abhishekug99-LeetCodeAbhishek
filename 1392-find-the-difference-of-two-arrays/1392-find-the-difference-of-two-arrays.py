@@ -1,8 +1,8 @@
 class Solution:
     def findDifference(self, nums1: List[int], nums2: List[int]) -> List[List[int]]:
-        #More Optimised
-        frozenSetNums1 = frozenset(nums1)
-        frozenSetNums2 = frozenset(nums2)
+        #More Optimised using frozen set
+        frozenSetNums1 = set(nums1)
+        frozenSetNums2 = set(nums2)
 
         diff1 = list(frozenSetNums1-frozenSetNums2)
         diff2 = list(frozenSetNums2-frozenSetNums1)
