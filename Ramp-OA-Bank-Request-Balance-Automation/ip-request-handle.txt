@@ -1,0 +1,11 @@
+For timestamps = [1600040547954, 1600040547957, 1600040547958]. ipaddresses = ["127.105.232.211", "127.105.232.211", "127.105.232.211"], limit 1, and timewindow = 3, the output should be solution(timestamps, ipAddresses, limit, timewindow) [1, 0, 1]
+
+GS
+
+Let's consider all the requests one by one:
+
+* The first request has arrived at timestamp 1600040547954 from IP address "127.105.232.211", and since there are no accepted requests from the same IP address during the last timewindow= 3m5 the first request is accepted.
+
+The second request has arrived at timestamp 1600040547957 from IP address "127.105.232.211" and since there is already one accepted request from the same IP address during the last timewindow and limit 1, the second request is declined. 3ms
+
+* The third request has arrived at timestamp 1600040547958 from IP address "127.105.232.211", and since there are no other accepted requests from the same IP address during the last timewindow 35 the third request is accepted. Note that since the second request has been declined, it isn't counted here.
