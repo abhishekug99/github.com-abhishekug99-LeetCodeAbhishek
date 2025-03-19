@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
