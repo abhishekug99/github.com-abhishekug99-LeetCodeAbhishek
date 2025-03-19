@@ -5,37 +5,59 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
-        # i<=n/2-1means need to partition array and pair twin from both sides
-        # Step 1: Find the middle of the linked list (slow-fast pointer)
-        fast, slow = head, head
+        #similar most optimised apprach with stack
+        if head ==None or head.next == None:
+            return 
+        fast,slow = head,head
+        stack =[]
+        twinSum = 0
         while fast and fast.next:
-            slow = slow.next
+            stack.append(slow.val)
             fast = fast.next.next
-        # return slow.val
-        # To efficiently pair the first half with the second half, we:
-        # Find the middle node (using the slow and fast pointer method).
-        # Reverse the second half of the linked list.
-        prev,curr = None, slow
-        while curr:
-            nxtTemp = curr.next
-            curr.next = prev
-            prev  = curr
-            curr = nxtTemp
+            slow = slow.next
+        # print(slow)
+        # print(stack)
+        while slow!=None:
+            twinSum = max(twinSum, stack.pop() + slow.val)
+            slow = slow.next
+        
+        return twinSum
+            
+
+
+
+        # # i<=n/2-1means need to partition array and pair twin from both sides
+        # # Step 1: Find the middle of the linked list (slow-fast pointer)
+        # fast, slow = head, head
+        # while fast and fast.next:
+        #     slow = slow.next
+        #     fast = fast.next.next
+        # # return slow.val
+        # # To efficiently pair the first half with the second half, we:
+        # # Find the middle node (using the slow and fast pointer method).
+        # # Reverse the second half of the linked list.
+        # prev,curr = None, slow
+        # while curr:
+        #     nxtTemp = curr.next
+        #     curr.next = prev
+        #     prev  = curr
+        #     curr = nxtTemp
         
 
         # Compare and sum pairs from both halves simultaneously. 
-        p1,p2 = head,prev
-        twinSum = 0
-        while p2:
-            twinSum = max(twinSum, p1.val+p2.val)
-            p1 = p1.next
-            p2 = p2.next
+        # p1,p2 = head,prev
+        # twinSum = 0
+        # while p2:
+        #     twinSum = max(twinSum, p1.val+p2.val)
+        #     p1 = p1.next
+        #     p2 = p2.next
 
-        return twinSum
+        # return twinSum
 
 
     
     
+    #RAW LOGIC
     # def pairSum(self, head: Optional[ListNode]) -> int:
     #     def headSize(head):
     #         l = 0
