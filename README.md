@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0198-house-robber](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0643-maximum-average-subarray-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1477-product-of-the-last-k-numbers) |
