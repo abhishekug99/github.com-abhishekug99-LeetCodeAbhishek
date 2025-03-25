@@ -7,11 +7,23 @@
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
         #decrementin approach
-        if not root:
-            return False
-        targetSum-=root.val
-        if not root.left and not root.right:
-            return targetSum==0
+        # if not root:
+        #     return False
+        # targetSum-=root.val
+        # if not root.left and not root.right:
+        #     return targetSum==0
 
-        return self.hasPathSum(root.left,targetSum) or self.hasPathSum(root.right,targetSum)
+        # return self.hasPathSum(root.left,targetSum) or self.hasPathSum(root.right,targetSum)
+
+        #Making to the sum approach DFS apprach:
+        def dfs(root, currSum):
+            if not root:
+                return False
+            currSum += root.val
+            if not root.left and not root.right:
+                return currSum == targetSum
+            return dfs(root.left, currSum) or dfs(root.right, currSum)
+        return dfs(root,0) 
+
+
 
