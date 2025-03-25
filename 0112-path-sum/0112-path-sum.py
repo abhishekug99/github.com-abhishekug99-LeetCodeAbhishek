@@ -15,6 +15,7 @@ class Solution:
 
         # return self.hasPathSum(root.left,targetSum) or self.hasPathSum(root.right,targetSum)
 
+        #0 ms
         #Making to the sum approach DFS apprach:
         # def dfs(root, currSum):
         #     if not root:
