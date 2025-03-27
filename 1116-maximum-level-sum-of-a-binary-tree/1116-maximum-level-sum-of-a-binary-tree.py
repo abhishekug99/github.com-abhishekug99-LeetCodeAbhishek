@@ -5,50 +5,52 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def maxLevelSum(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
-        level = 1
-        maxSum = float('-inf')
-        maxLevel  = 1
+    #BFS
+    # def maxLevelSum(self, root: Optional[TreeNode]) -> int:
+    #     if not root:
+    #         return 0
+    #     level = 1
+    #     maxSum = float('-inf')
+    #     maxLevel  = 1
 
-        queue = deque([(root,1)])
+    #     queue = deque([(root,1)])
 
-        while queue:
-            levelSum = 0
-            for _ in range(len(queue)):
-                node, lvl = queue.popleft()
-                levelSum+=node.val
+    #     while queue:
+    #         levelSum = 0
+    #         for _ in range(len(queue)):
+    #             node, lvl = queue.popleft()
+    #             levelSum+=node.val
 
-                if node.left:
-                    queue.append((node.left,lvl+1))
-                if node.right:
-                    queue.append((node.right, lvl+1))
-            if levelSum > maxSum:
-                maxSum = levelSum
-                maxLevel = level
-            level+=1
-        return maxLevel
+    #             if node.left:
+    #                 queue.append((node.left,lvl+1))
+    #             if node.right:
+    #                 queue.append((node.right, lvl+1))
+    #         if levelSum > maxSum:
+    #             maxSum = levelSum
+    #             maxLevel = level
+    #         level+=1
+    #     return maxLevel
 
         
-        
-        # res = []
-        
-        # def levels(root, depth):
-        #     curr =0
-        #     if not root:
-        #         return 
-        #     if root.left or root.right:
-        #         curr += root.val
-        #         print(curr)
-        #         res.append(curr)
-        #     levels(root.left, depth+1)
-        #     levels(root.right, depth+1)
+       #DFS
+        def maxLevelSum(self, root: Optional[TreeNode]) -> int:
+ 
+            res = {}
             
-        #     # curr = 0
+            def levels(root, depth):
+                if not root:
+                    return 
+                if depth not in res:
+                    res[depth] = 0
+                res[depth]+=root.val
 
-        # levels(root, 1)
-        # print(res)
-        # return res.index(max(res)) + 1
+                levels(root.left, depth+1)
+                levels(root.right, depth+1)
+                
+            # curr = 0
+
+            levels(root, 1)
+            print(res)
+            return max(res, key=res.get)
 
         
