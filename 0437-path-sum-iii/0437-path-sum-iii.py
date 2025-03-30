@@ -13,8 +13,11 @@ class Solution:
             if not node:
                 return 0
             sumTillNow +=node.val
+            # If sumTillNow - targetSum exists in prefixSum, 
+            # that means there exists a previous sum from which subtracting targetSum leads to sumTillNow.
             cnt = prefixSum[sumTillNow - targetSum]
             prefixSum[sumTillNow] += 1
+            # print(prefixSum)
 
             cnt+=dfs(node.left,sumTillNow)
             cnt+=dfs(node.right,sumTillNow)
