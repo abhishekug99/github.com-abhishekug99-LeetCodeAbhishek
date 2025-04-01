@@ -7,12 +7,13 @@
 
 class Solution:
     def guessNumber(self, n: int) -> int:
-        l,h = 1,n
-        while l<h:
-            m = (l+h)//2
-            if guess(m) == 1:
-                l = m+1
-            else:
-                h = m
-        return l
+        return bisect_left(range(n), 0, key=lambda num: -guess(num))
+        # l,h = 1,n
+        # while l<h:
+        #     m = (l+h)//2
+        #     if guess(m) == 1:
+        #         l = m+1
+        #     else:
+        #         h = m
+        # return l
 
