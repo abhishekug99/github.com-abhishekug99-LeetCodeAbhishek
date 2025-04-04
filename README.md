@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
