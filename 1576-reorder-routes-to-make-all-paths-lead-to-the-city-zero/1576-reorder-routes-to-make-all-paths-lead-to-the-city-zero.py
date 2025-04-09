@@ -4,7 +4,7 @@ class Solution:
         for a, b in connections:
             graph[a].append((b,1))
             graph[b].append((a,0))
-        print(graph)
+        # print(graph)
         
         visit = set()
         def dfs(node):
