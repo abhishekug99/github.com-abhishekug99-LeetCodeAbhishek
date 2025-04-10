@@ -1,6 +1,6 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        #way to optimse O(1) space:
+        #way to optimise O(1) space:
         stack = []
         op = '+' #intial operato ot compare
         num =0
