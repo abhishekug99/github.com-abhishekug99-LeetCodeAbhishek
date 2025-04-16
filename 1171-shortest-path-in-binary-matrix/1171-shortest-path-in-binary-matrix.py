@@ -18,16 +18,16 @@ class Solution:
                     if r == ROW-1 and c ==COL-1:
                         return path
                     
-                    for dr,dc in  nbrs:
-                        if (0 <= r+dr < ROW and 0 <= c+dc < COL and (r+dr,c+dc) not in visit and grid[r+dr][c+dc]==0):
-                            # continue
-                            queue.append((r+dr,c+dc))
-                            visit.add((r+dr,c+dc))
                     # for dr,dc in  nbrs:
-                    #     if (min(r+dr,c+dc)<0 or (r+dr,c+dc) in visit or r+dr == ROW or c+dc==COL or grid[r+dr][c+dc]==1):
-                    #         continue
-                    #     queue.append((r+dr,c+dc))
-                    #     visit.add((r+dr,c+dc))
+                    #     if (0 <= r+dr < ROW and 0 <= c+dc < COL and (r+dr,c+dc) not in visit and grid[r+dr][c+dc]==0):
+                    #         # continue
+                    #         queue.append((r+dr,c+dc))
+                    #         visit.add((r+dr,c+dc))
+                    for dr,dc in  nbrs:
+                        if (min(r+dr,c+dc)<0 or (r+dr,c+dc) in visit or r+dr == ROW or c+dc==COL or grid[r+dr][c+dc]==1):
+                            continue
+                        queue.append((r+dr,c+dc))
+                        visit.add((r+dr,c+dc))
                 path+=1
                 print(queue)
             return -1
