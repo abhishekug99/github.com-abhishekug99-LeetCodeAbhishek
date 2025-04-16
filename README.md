@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0739-daily-temperatures) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1477-product-of-the-last-k-numbers) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 ## Monotonic Stack
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Linked List
