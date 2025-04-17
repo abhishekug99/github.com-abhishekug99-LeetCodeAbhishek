@@ -7,5 +7,8 @@ class Solution:
                 stack.append(par)
             elif not stack or parMapping[stack.pop()]!=par:
                 return False
-        return not stack
+        if stack:
+            return False
+        return True
+        # return not stack #works as well
 
