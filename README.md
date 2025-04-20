@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2636-maximum-subsequence-score) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2413-smallest-number-in-infinite-set) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2636-maximum-subsequence-score) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Database
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sliding Window
 |  |
 | ------- |
