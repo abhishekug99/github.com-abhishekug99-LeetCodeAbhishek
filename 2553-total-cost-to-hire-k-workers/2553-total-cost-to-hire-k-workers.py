@@ -1,14 +1,15 @@
 class Solution:
     def totalCost(self, costs: List[int], k: int, candidates: int) -> int:
         res = 0
+        n = len(costs)
         left = costs[:candidates]
-        right = costs[max(candidates, len(costs)-candidates):]
+        right = costs[max(candidates, n-candidates):]
         # print((left,right))
 
         heapq.heapify(left)
         heapq.heapify(right)
 
-        i, j = candidates, len(costs)-candidates-1
+        i, j = candidates, n-candidates-1
 
         for _ in range(k):
             if not right or (left and left[0]<=right[0]):
