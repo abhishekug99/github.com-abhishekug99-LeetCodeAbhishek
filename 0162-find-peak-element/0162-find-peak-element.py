@@ -4,14 +4,24 @@ class Solution:
         # maxNum = max(nums)
         # return nums.index(maxNum)
         
-        l, r = 0, len(nums)-1
-        while l<r:
-            mid = (l+r)//2
+        # l, r = 0, len(nums)-1
+        # while l<r:
+        #     mid = (l+r)//2
             
-            if nums[mid] < nums[mid+1]:
-                l = mid+1
+        #     if nums[mid] < nums[mid+1]:
+        #         l = mid+1
             
-            else:
-                r = mid
+        #     else:
+        #         r = mid
         
-        return l
+        # return l
+        
+        #HeapApproach
+        heap = []
+        for i in range(len(nums)):
+            heapq.heappush(heap,(-nums[i],i))
+
+        return heapq.heappop(heap)[1]
+
+
+
