@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0169-majority-element) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0278-first-bad-version) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
