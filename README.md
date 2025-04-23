@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0278-first-bad-version](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0783-search-in-a-binary-search-tree) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0374-guess-number-higher-or-lower) |
 ## Graph
 |  |
