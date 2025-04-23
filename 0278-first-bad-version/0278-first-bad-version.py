@@ -6,7 +6,8 @@ class Solution:
         l =0
         r = n
         while l<=r:
-            mid = (l+r)//2
+            # mid = (l+r)//2
+            mid=l+(r-l)//2 #smart way reducung the range
             if isBadVersion(mid):
                 r = mid-1
             else:
