@@ -6,10 +6,10 @@ class Solution:
             bBi = b & 1
             cBi = c & 1
             if (aBi|bBi)!=cBi:
-                if cBi ==0:
-                    counter+=(aBi+bBi)
-                else:
+                if cBi ==1:
                     counter+=1
+                else:
+                    counter+=(aBi+bBi)
             a>>=1
             b>>=1
             c>>=1
