@@ -1,21 +1,22 @@
 class Solution:
     def minFlips(self, a: int, b: int, c: int) -> int:
-        res = (c:=(a|b)^c).bit_count() + (a & b & c).bit_count()
-        return res
-        # counter = 0
-        # while a>0 or b>0 or c>0:
-        #     aBi = a & 1
-        #     bBi = b & 1
-        #     cBi = c & 1
-        #     if (aBi|bBi)!=cBi:
-        #         if cBi ==1:
-        #             counter+=1
-        #         else:
-        #             counter+=(aBi+bBi)
-        #     a>>=1
-        #     b>>=1
-        #     c>>=1
-        # return counter
+        # res = (c:=(a|b)^c).bit_count() + (a & b & c).bit_count()
+        # return res
+        
+        counter = 0
+        while a>0 or b>0 or c>0:
+            aBi = a & 1
+            bBi = b & 1
+            cBi = c & 1
+            if (aBi|bBi)!=cBi:
+                if cBi ==1:
+                    counter+=1
+                else:
+                    counter+=(aBi+bBi)
+            a>>=1
+            b>>=1
+            c>>=1
+        return counter
         
         # counter = 0
         # orth = a|b
