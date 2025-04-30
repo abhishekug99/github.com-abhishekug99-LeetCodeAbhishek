@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0009-palindrome-number) |
 | [0227-basic-calculator-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0227-basic-calculator-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1477-product-of-the-last-k-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2413-smallest-number-in-infinite-set) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
