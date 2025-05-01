@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1477-product-of-the-last-k-numbers) |
