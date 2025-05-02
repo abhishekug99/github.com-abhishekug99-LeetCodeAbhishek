@@ -1,5 +1,6 @@
 class Solution:
     def numTilings(self, n: int) -> int:
+        #get the explanation important
         if n == 1:
             return 1
         if n==2:
