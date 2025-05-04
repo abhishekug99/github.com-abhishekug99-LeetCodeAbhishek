@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [0227-basic-calculator-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0227-basic-calculator-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1477-product-of-the-last-k-numbers) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
