@@ -1,6 +1,6 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        # Actual bottom to up dp O(m)
+        # Actual bottom to top dp O(m)
         prevRow = [0]*n
         for r in range(m-1,-1,-1):
             currRow = [0]*n
