@@ -6,9 +6,9 @@ class Solution:
 
         for price in prices[1:]:
             cash = max(cash, hold + price - fee)
-            print(cash)
+            # print(cash)
             hold = max(hold, cash - price)
-            print(hold)
+            # print(hold)
         return cash
         
         #dfs
