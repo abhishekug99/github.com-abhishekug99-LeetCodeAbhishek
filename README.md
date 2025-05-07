@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0739-daily-temperatures) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2636-maximum-subsequence-score) |
 ## Two Pointers
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0435-non-overlapping-intervals) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0806-domino-and-tromino-tiling) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
