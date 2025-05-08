@@ -6,7 +6,7 @@ class Solution:
             cache[len(word1)][j] = len(word2)-j
         for i in range(len(word1)+1):
             cache[i][len(word2)] = len(word1)-i
-        print(cache)
+        # print(cache)
         for i in range(len(word1)-1,-1,-1):
             for j in range(len(word2)-1,-1,-1):
                 if word1[i] == word2[j]:
