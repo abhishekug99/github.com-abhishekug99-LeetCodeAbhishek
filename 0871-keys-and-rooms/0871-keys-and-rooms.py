@@ -8,12 +8,7 @@ class Solution:
                 if key not in visit:
                     dfs(key)
 
-
-            
-        # dfs(grid, r+1, visit)
-            # res.append(dfs(grid, r-1, c, visit))
-            # res.append(dfs(grid, r, c+1, visit))
-            # res.append(dfs(grid, r, c-1, visit))
         dfs(0)
+        print(len(visit))
         return len(visit) == len(rooms)
     
