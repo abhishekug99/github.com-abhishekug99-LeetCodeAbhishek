@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0169-majority-element) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
