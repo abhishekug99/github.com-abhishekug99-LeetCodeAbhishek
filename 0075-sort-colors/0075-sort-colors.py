@@ -14,6 +14,7 @@ class Solution:
             else:
                 blue.append(num)
         numsSort = red + white + blue
+        print(numsSort)
         for i in range(len(nums)):
             nums[i] = numsSort[i]
         
