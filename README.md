@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1319-unique-number-of-occurrences) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1777-determine-if-two-strings-are-close) |
 ## Greedy
