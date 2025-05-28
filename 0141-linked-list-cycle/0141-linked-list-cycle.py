@@ -6,6 +6,7 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
+        # Floyd’s Cycle Detection, fast and skow pointers 
         stack = []
         slw = fst = head
         while fst and fst.next:
