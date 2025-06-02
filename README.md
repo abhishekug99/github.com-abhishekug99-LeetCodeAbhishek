@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0136-single-number) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0338-counting-bits) |
