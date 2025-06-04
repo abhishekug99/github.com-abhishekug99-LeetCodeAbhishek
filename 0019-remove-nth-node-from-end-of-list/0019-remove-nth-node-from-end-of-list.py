@@ -29,6 +29,7 @@ class Solution:
         # print(n)
         i=0
         curr = head
+
         while i<n:
             i+=1
             if i==n:
