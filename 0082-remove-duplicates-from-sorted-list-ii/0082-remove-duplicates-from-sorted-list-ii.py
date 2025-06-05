@@ -19,7 +19,7 @@ class Solution:
             cur = cur.next
         print(mapNode)
         cur = head
-        dummyCur = dummy
+        dummyCur = dummy #alway modify with the copy of cur of head as it will be precise 
         while cur:
             if  mapNode[cur.val]>1:
                 cur = cur.next
