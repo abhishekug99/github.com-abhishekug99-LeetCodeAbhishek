@@ -7,7 +7,7 @@
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         
-    # Stack Approach O(n) and O(n) space and time, easy to implement
+    # Stack Approach O(n) and O(n) space and time, easy to implement and most efficient too!
         if not p and not q:
             return True 
         if not p or not q:
