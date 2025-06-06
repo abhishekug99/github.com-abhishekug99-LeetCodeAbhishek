@@ -6,22 +6,45 @@
 #         self.right = right
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        curP = p
-        curQ = q
-
-    #recurrsion O(n) and O(1) time and space
+        
+    # Stack Approach O(n) and O(n) space and time, easy to implement
         if not p and not q:
-            return True  
-        elif (p and not q) or (not p and q):
-            return False
-        elif p and q and p.val != q.val:
-            return False
-        lTree = self.isSameTree(p.left, q.left)
-        rTree = self.isSameTree(p.right, q.right)
+            return True 
+        if not p or not q:
+            return False  
+        
+        stack = [(p,q)]
+        
+        while stack:
+            curP, curQ = stack.pop()
+            if not curP and not curQ:
+                continue
+            if not curP or not curQ:
+                return False
+            if curP.val != curQ.val:
+                return False
+            stack.append((curP.right,curQ.right))
+            stack.append((curP.left,curQ.left))
+        return True
 
-        return lTree and rTree
 
-    # most optimised moris travesal O(n) and O(1) time and space
+
+        # curP = p
+        # curQ = q
+
+    #recurrsion O(n) and O(1) time and space also most efficient
+        # if not p and not q:
+        #     return True  
+        # elif (p and not q) or (not p and q):
+        #     return False
+        # elif p and q and p.val != q.val:
+        #     return False
+        # lTree = self.isSameTree(p.left, q.left)
+        # rTree = self.isSameTree(p.right, q.right)
+
+        # return lTree and rTree
+
+    # optimised morris travesal O(n) and O(1) time and space
     #     while curP and curQ:
     #     # If both have no left children
     #         if not curP.left and not curQ.left:
