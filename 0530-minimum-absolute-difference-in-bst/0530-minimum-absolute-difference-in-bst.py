@@ -10,8 +10,9 @@ class Solution:
             if not node:
                 return 
             postOrderTravelsal(node.left, value)
-            postOrderTravelsal(node.right, value)
             value.append(node.val)
+            postOrderTravelsal(node.right, value)
+            
         value = []
         postOrderTravelsal(root, value)
         value.sort()
@@ -20,6 +21,5 @@ class Solution:
         for i in range(1,len(value)):
             minDiff = min(minDiff, abs(value[i]-value[i-1]))
         return minDiff
-        # return abs(value[0]-value[1])
 
         
