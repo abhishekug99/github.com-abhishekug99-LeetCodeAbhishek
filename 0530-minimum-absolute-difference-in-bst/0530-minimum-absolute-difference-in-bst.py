@@ -9,7 +9,6 @@ class Solution:
         def postOrderTravelsal(node, value):
             if not node:
                 return 
-            
             postOrderTravelsal(node.left, value)
             value.append(node.val)
             postOrderTravelsal(node.right, value)
