@@ -1,6 +1,6 @@
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
-        #with lru_cache for mrmoization
+        #1ms using lru_cache for memoization with O(m*n)
         if obstacleGrid[-1][-1] == 1:
             return 0
         ROW = len(obstacleGrid)
@@ -19,7 +19,7 @@ class Solution:
         return dfs(0,0)
         
         
-        # my correct dfs+backtracking approach with time O(2^(r+c))
+        # my correct dfs+backtracking approach with time O(2^(r+c)) works well, TLE is there
         # ROW = len(obstacleGrid)
         # COL = len(obstacleGrid[0])
         # if obstacleGrid[-1][-1] == 1:
