@@ -15,7 +15,7 @@ class Solution:
         
         
         
-
+        #Works, bruteforce, O(n^2)
         # for i in range(len(nums)):
         #     if nums[i] == nums[-1]:
         #         prdt = math.prod(nums[:-1])
