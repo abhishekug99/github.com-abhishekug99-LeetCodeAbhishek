@@ -7,6 +7,7 @@ class Solution:
             return True
         if not t:
             return False
+            
         for i in range(len(t)):
             if j < len(s) and t[i] == s[j]:
                 stack.append(t[i])
