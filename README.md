@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0205-isomorphic-strings) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -594,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
