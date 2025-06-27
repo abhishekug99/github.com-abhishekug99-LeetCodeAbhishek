@@ -10,12 +10,16 @@ class LRUCache:
     def get(self, key: int) -> int:
         if key not in self.LL:
             return -1
-        if key in self.LL:
-            idx = self.LL.index(key)
-            if idx != len(self.LL)-1 :
-                self.LL.remove(key)
-                self.LL.append(key)
-            return self.cache[key]
+        self.LL.remove(key)
+        self.LL.append(key)
+        return self.cache[key]
+        # below is correct bu above can do it too
+        # if key in self.LL:
+        #     idx = self.LL.index(key)
+        #     if idx != len(self.LL)-1 :
+        #         self.LL.remove(key)
+        #         self.LL.append(key)
+        #     return self.cache[key]
 
     def put(self, key: int, value: int) -> None:
         if key in self.LL:
