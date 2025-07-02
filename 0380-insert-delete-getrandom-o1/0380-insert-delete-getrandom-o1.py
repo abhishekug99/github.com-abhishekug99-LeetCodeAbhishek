@@ -10,7 +10,7 @@ class RandomizedSet:
         self.lst.append(val)
         return True
         
-#pop works inO(1) whely when we do not pass index, else it take O(n)
+#pop works in  O(1) only when we do not pass index, else it take O(n)
     def remove(self, val: int) -> bool:
         if val not in self.iMap:
             return False
