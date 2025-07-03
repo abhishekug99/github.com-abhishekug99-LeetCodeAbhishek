@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0735-asteroid-collision) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0278-first-bad-version) |
@@ -625,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0380-insert-delete-getrandom-o1) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
