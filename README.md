@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0643-maximum-average-subarray-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0437-path-sum-iii) |
+| [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
+| [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
