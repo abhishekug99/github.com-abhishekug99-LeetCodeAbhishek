@@ -21,7 +21,7 @@ class Solution:
         
         return maxSqr ** 2
 
-        #my logic -Accepted O(R*C)
+        #my logic -Accepted O(R*C) This one is faster
         # dp = []
         # ROW = len(matrix)+1
         # COL = len(matrix[0])+1 #extra row and col for not goin out of bound
