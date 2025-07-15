@@ -8,15 +8,20 @@ class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        res =[]
-        def counter(root)->int:
-            if not root:
-                return 
-            res.append(root.val)
-            counter(root.left) 
-            counter(root.right)
-        counter(root)
-        return len(res)
+        return 1 + self.countNodes(root.left)+self.countNodes(root.right)
+
+        #space O(1)
+        # if not root:
+        #     return 0
+        # res =[]
+        # def counter(root)->int:
+        #     if not root:
+        #         return 
+        #     res.append(root.val)
+        #     counter(root.left) 
+        #     counter(root.right)
+        # counter(root)
+        # return len(res)
 
         
 
