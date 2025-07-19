@@ -1,5 +1,6 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
+        #O(n) for space and time but easy to understand
         # if len(height)==0:
         #     return 0
         
@@ -21,6 +22,7 @@ class Solution:
         # return res
 
         #withought extra space: bianary dearch approch
+        #space O(1) and time O(n)
         if not height: return 0
         l,r  = 0, len(height)-1
         res = 0
