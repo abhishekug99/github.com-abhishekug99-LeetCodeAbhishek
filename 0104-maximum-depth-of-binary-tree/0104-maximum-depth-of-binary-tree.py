@@ -9,6 +9,7 @@ class Solution:
         if not root:
             return 0
         lDepth = self.maxDepth(root.left)
+        # print(root.val)
         rDepth = self.maxDepth(root.right)
 
         return max(lDepth, rDepth) + 1 #to include the current node
