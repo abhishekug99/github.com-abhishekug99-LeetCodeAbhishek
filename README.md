@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0224-basic-calculator) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0162-find-peak-element) |
