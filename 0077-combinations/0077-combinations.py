@@ -2,7 +2,6 @@ from itertools import combinations
 import math
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        visted = set()
         res=[]
         def backtrackDFS(start: int, path: List):
             if len(path) == k:
