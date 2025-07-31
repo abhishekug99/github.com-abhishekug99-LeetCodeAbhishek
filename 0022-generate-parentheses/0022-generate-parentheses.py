@@ -1,13 +1,10 @@
 class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
-        
+    def generateParenthesis(self, n: int) -> List[str]:        
        res = []
-    #    def backtrack(o,c,s):
-    #     if len(s) == 2*n:
-    #         return res.append(s)
-    #         return
+
        def backtrack(o,c,s):
-        if len(s) == 2*n:
+        # if len(s) == 2*n: #this line works to 
+        if o==c==n:
             res.append(s[:])
             return
         if len(s)> 2*n:
