@@ -26,3 +26,17 @@ class Solution:
                 if dfsBacktrack(r,c,0):
                     return True
         return False
+
+        # #dp not yet completed
+        # res=['']*len(word)
+        # # print(res)
+        # i=0
+        # for r in range(ROW):
+        #     for c in range(COL):
+        #         if i<=len(res) and word[i] == board[r][c]:
+        #             res[i] =  board[r][c]
+        #             i+=1
+        # if ''.join(res) == word:
+        #     return True
+        # else:
+        #     return False
