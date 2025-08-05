@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0139-word-break) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0100-same-tree) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0221-maximal-square) |
