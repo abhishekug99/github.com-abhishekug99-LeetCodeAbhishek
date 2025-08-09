@@ -1,7 +1,7 @@
 import heapq
 class MedianFinder:
-#nlog(n) as bisect.insort uses binary search apperoch to find insertion point
-    # def __init__(self):
+# nlog(n) as bisect.insort uses binary search apperoch to find insertion point #easy to implement
+    # def __init__(self): 
     #     self.arr = []
     #     # heapq.heapify(self.arr)
 
@@ -18,7 +18,8 @@ class MedianFinder:
     #         median = self.arr[idx]
     #     return median
  
-# Heap based min max both heaps
+# Heap based min max both heaps #O(log(n)) as heap does operations, push/pop in log(n) time
+# more optimised
     def __init__(self):
         self.small = [] #maxHeap
         self.large = [] #minHeap
