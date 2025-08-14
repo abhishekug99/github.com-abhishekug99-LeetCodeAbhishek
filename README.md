@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0063-unique-paths-ii) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0069-sqrtx) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0064-minimum-path-sum) |
