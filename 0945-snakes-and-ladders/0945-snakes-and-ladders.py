@@ -1,7 +1,7 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
         lenght = len(board)
-        board.reverse()
+        board.reverse()#vimp
         def posToRC(squareNum):
             r = (squareNum-1)// lenght
             c = (squareNum-1) % lenght
