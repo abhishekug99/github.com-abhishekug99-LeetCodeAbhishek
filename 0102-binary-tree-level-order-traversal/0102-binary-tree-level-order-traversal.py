@@ -6,10 +6,11 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        #0mc submssion
         res = []
         if not root:
             return []
-        queue = deque([(root,1)])
+        queue = deque([(root,1)]) #effective than the queue = deque()
         while len(queue)>0:
             track = []
             for i in range(len(queue)):
@@ -23,7 +24,7 @@ class Solution:
      
         return res
         
-        
+        #555ms-accepted submission
         # res = []
         # if not root:
         #     return []
