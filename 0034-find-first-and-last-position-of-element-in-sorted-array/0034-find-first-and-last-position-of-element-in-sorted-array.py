@@ -15,8 +15,7 @@ class Solution:
                 l = mid+1
             else:
                 r = mid-1
-        if i==-1:
-            return[-1,-1]
+    
         left ,right= i,i
         while left>0 and nums[left-1]==target:
             left -=1
