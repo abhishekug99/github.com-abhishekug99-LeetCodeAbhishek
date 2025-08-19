@@ -10,8 +10,8 @@ class Solution:
             if n%i==0:
                 cnt+=1
         return -1
-        
-        #most common but takes extra space O(n) withouth
+
+        #most common but takes extra space O(n) 
         # fact = []
         # for i in range(1, n+1):
         #     if n%i==0:                
