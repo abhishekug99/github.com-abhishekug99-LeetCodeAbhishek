@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0072-edit-distance) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0191-number-of-1-bits) |
