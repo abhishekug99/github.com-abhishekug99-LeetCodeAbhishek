@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0079-word-search) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0128-longest-consecutive-sequence) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0130-surrounded-regions) |
