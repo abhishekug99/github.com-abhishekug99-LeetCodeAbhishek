@@ -11,7 +11,7 @@ class Solution:
                 return mid
             elif target>nums[mid]:
                 l = mid+1
-            elif target<nums[mid]:
+            else:
                 r = mid-1
         
         return l
