@@ -6,8 +6,8 @@ class Solution:
         def isZeroInNum(n: int)->bool:
             return '0' in str(n)
 
-        # if n%10==0:
         for i in range(1,n):
-            b = n-i
-            if not isZeroInNum(i) and not isZeroInNum(b):
-                return [i, b]
+            if not isZeroInNum(i) and not isZeroInNum(n-i):
+                return [i, n-i]
+    
+        
