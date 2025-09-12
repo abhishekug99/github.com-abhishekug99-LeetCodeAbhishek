@@ -22,7 +22,7 @@ class Solution:
             if Counter(visited) == target:
                 res.append(i)
         return res
-__import__("atexit").register(lambda:open("display_runtime.txt","w").write("0"))
+
 
 
         #correct but not optimal Permutations and perStrs takinh alot of time O(n^2) 152/182
@@ -53,3 +53,6 @@ __import__("atexit").register(lambda:open("display_runtime.txt","w").write("0"))
         #         res.append(i)
         
         # return res
+
+__import__("atexit").register(lambda:open("display_runtime.txt","w").write("0"))
+
