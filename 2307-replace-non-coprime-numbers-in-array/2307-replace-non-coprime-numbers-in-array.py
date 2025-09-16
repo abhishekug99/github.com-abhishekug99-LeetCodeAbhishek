@@ -7,7 +7,6 @@ class Solution:
         def getLCM(x,y):
             return x * y // getGCD(x, y)
 
-        print(getLCM(6,4))
         res = []
         for num in nums:
             res.append(num)
