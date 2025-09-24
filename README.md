@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0205-isomorphic-strings) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0224-basic-calculator) |
