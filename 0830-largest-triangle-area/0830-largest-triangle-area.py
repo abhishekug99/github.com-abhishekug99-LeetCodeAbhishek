@@ -15,7 +15,7 @@ class Solution:
         return maxArea
 
         
-        #logic is correct few issue
+        # logic is correct few issue
         # maxArea = 0
         # for i in range(len(points)-2):
         #     curMax=0
@@ -25,7 +25,6 @@ class Solution:
         #         x2,y2 = points[j]
         #         x3,y3 = points[j+1]
         #         area = abs(0.5 * (x1*(y2-y3) + x2*(y3-y1) + x3*(y1-y2)))
-        #         currMax = max(area, curMax)
+        #         maxArea = max(area, maxArea)
         #         j+=1
-        #     maxArea = max(currMax, maxArea)
         # return maxArea
