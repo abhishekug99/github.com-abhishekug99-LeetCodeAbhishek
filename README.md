@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0747-min-cost-climbing-stairs) |
+| [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0945-snakes-and-ladders) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [2206-detonate-the-maximum-bombs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
