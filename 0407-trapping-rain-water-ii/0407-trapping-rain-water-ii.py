@@ -4,13 +4,14 @@ class Solution:
         heap = []
         ROW = len(heightMap)
         COL = len(heightMap[0])
-        visited = [[False]*COL for _ in range(ROW)]
+        visited = set()
         
         for r in range(ROW):
             for c in range(COL):
                 if r in [0, ROW-1] or c in [0, COL-1]:
                     heapq.heappush(heap, (heightMap[r][c], r ,c))
-                    visited[r][c] = True
+                    visited.add((r,c))
+                    # visited[r][c] = True
         trapped = 0
         maxHeight = 0
 
@@ -19,8 +20,9 @@ class Solution:
             maxHeight = max(maxHeight, h)
             for dr, dc in dirs:
                 nr,nc = dr+r, dc+c
-                if 0<=nr<ROW and 0<=nc<COL and not visited[nr][nc]:
-                    visited[nr][nc] = True
+                if 0<=nr<ROW and 0<=nc<COL and (nr,nc) not in visited: 
+                    # visited[nr][nc] = True
+                    visited.add((nr,nc))
                     nh = heightMap[nr][nc]
                     if nh<maxHeight:
                         trapped+=maxHeight-nh
