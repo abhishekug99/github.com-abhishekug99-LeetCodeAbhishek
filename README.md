@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0940-fruit-into-baskets) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [1397-search-suggestions-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1397-search-suggestions-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2413-smallest-number-in-infinite-set) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1397-search-suggestions-system) |
@@ -732,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -774,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
@@ -844,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 ## Bit Manipulation
 |  |
 | ------- |
