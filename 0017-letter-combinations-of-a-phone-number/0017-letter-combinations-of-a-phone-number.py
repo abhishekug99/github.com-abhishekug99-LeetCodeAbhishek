@@ -25,28 +25,4 @@ class Solution:
         
         backTrack(0,track)
         return res
-
-
-        backTrack(nStrList, used, track)
-        return res
-
-
-#lofic for permutation backtracking
-        # used = ['' for _ in range(len(nStrList))] for pemutations keep track of repeated, appear only once in given string
-        # print(used)
-        # res = []
-        # track =''
-        # def backTrack(nStrList, used, track):
-        #     if len(track) == len(digits):
-        #         res.append(track)
-        #         return
-        #     for i in range(len(nStrList)):
-        #         if used[i]:
-        #             continue
-        #         track+=nStrList[i]
-        #         used[i] = 1
-        #         copyTrack = track
-        #         backTrack(nStrList, used, copyTrack)
-        #         track = track[:-1]
-        #         used[i]=0
         
