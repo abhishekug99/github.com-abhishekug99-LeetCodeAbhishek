@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0907-koko-eating-bananas) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
+| [0772-construct-quad-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
@@ -849,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0215-kth-largest-element-in-an-array) |
+| [0772-construct-quad-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0954-maximum-sum-circular-subarray) |
 ## Interactive
 |  |
