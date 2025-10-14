@@ -17,8 +17,8 @@ class Solution:
             if (nums[i:i+k] and nums[i+k:i+k+k]) and (len(nums[i:i+k])==len(nums[i+k:i+k+k])):
 
                 if checkIncreasingOrder(nums[i:i+k]) and checkIncreasingOrder(nums[i+k:i+k+k]):
-                    print(nums[i:i+k])
-                    print(nums[i+k:i+k+k])
+                    # print(nums[i:i+k])
+                    # print(nums[i+k:i+k+k])
                     return True
             else:
                 continue
