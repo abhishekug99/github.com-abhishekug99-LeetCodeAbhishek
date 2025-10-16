@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2636-maximum-subsequence-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3321-type-of-triangle) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3678-design-task-manager) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2206-detonate-the-maximum-bombs) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3321-type-of-triangle) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2636-maximum-subsequence-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
