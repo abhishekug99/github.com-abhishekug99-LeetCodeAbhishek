@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2206-detonate-the-maximum-bombs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2206-detonate-the-maximum-bombs) |
@@ -891,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0801-is-graph-bipartite) |
 ## Bit Manipulation
 |  |
 | ------- |
