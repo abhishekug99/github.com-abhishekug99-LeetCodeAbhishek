@@ -13,7 +13,7 @@ class Solution:
             nxtAvailable = assignedVal+1
         return usedCnt
         
-        #TLE nlogn
+        #TLE n*k
         # nums.sort()
         # notnew = set()
         # for num in nums:
