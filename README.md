@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3321-type-of-triangle) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Design
 |  |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
@@ -1011,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1585-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Queue
 |  |
 | ------- |
