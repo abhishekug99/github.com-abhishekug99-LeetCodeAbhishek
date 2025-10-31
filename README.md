@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3321-type-of-triangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
