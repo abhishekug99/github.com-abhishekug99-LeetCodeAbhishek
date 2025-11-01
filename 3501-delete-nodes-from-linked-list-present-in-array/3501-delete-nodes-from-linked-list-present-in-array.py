@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
-        nums = set(nums)
+        nums = set(nums) # this avoid the TLE for this approach 
         while head and head.val in nums:
             head = head.next
         
