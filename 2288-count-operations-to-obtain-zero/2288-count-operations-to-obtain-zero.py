@@ -20,7 +20,7 @@ class Solution:
         if num1 ==0 or num2 ==0:
             return 0
         while num1 and num2:
-            res+=num1//num2
+            res+=num1//num2 #to count how much ops to get mod value below
             num1%=num2
             num1,num2 = num2, num1
         return res
