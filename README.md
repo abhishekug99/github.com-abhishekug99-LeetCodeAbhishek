@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0649-dota2-senate) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1250-longest-common-subsequence) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0502-ipo) |
 | [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0474-ones-and-zeroes) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0806-domino-and-tromino-tiling) |
