@@ -3,7 +3,7 @@ class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
         cnts = [(s.count('0'), s.count('1')) for s in strs]
 
-        @lru_cache(None)
+        @lru_cache(None) # if not used this time limit will get exceeded
         def dfs(i, zeros, ones):
             if i ==len(strs):
                 return 0
