@@ -3,7 +3,7 @@ class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         #O(n)
         def quickselect(left, right, idx_to_find):
-            pivot = nums[right]   #nums[random.randint(left, right)]
+            pivot = nums[random.randint(left, right)]
             l, r = left, right
             
             while l <= r:
