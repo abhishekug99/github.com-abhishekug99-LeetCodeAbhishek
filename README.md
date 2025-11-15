@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Number Theory
 |  |
 | ------- |
