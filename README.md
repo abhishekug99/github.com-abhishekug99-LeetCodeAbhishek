@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0696-count-binary-substrings) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1798-max-number-of-k-sum-pairs) |
