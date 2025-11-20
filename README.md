@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0502-ipo) |
 | [0529-minesweeper](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
