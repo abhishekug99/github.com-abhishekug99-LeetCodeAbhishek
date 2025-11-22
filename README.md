@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2038-nearest-exit-from-entrance-in-maze) |
