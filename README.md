@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0900-reordered-power-of-2) |
 | [0931-maximum-frequency-stack](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1319-unique-number-of-occurrences) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
