@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2625-increment-submatrices-by-one) |
 ## Monotonic Stack
 |  |
