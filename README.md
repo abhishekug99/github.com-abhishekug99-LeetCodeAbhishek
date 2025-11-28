@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2206-detonate-the-maximum-bombs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2206-detonate-the-maximum-bombs) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
