@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3321-type-of-triangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
