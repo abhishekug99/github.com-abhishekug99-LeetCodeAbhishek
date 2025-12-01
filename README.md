@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2618-maximize-the-minimum-powered-city) |
