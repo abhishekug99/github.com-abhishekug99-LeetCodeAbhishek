@@ -15,7 +15,7 @@ class Solution:
         if len(segs)<2:
             return 0
         
-        segs.sort()
+        # segs.sort()
         res = 0
         total = sum(segs)%MOD
         prefix = 0
