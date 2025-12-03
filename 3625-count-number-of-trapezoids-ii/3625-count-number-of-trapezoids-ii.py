@@ -1,9 +1,4 @@
 class Solution:
-    from collections import defaultdict
-from math import gcd
-from typing import List
-
-class Solution:
     def countTrapezoids(self, points: List[List[int]]) -> int:
         n = len(points)
 
