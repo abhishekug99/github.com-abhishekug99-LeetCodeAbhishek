@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
+| [3110-score-of-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3110-score-of-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
