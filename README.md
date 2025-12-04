@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2429-design-a-food-rating-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2429-design-a-food-rating-system) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2288-count-operations-to-obtain-zero) |
