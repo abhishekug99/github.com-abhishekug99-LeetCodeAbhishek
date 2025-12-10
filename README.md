@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3321-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -1144,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
@@ -1220,4 +1223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
