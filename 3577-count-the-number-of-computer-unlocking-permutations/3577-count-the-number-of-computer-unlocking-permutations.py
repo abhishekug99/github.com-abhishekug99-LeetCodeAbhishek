@@ -5,9 +5,9 @@ class Solution:
         MOD = 10**9+7
 
         for i in range(1, len(complexity)):
-            if complexity[i]<=complexity[0]:
+            if complexity[i]<=complexity[0]: #if this cannot at all unlock all coputers
                 return 0
-            res= (res*i)%MOD
+            res= (res*i)%MOD #just doing (n-1)!
                 
         return res
         
