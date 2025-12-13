@@ -5,7 +5,7 @@ class Solution:
         mensions = [0]*numberOfUsers #res
         allCnt = 0
         events.sort(key=lambda x: (int(x[1]), x[0] == "MESSAGE"))
-
+        #Pure nlogn solution
         for event in events:
             if "MESSAGE" == event[0]:
                 if "ALL" == event[2]:
