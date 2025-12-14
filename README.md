@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2206-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
