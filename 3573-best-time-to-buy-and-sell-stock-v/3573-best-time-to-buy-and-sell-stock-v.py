@@ -18,5 +18,5 @@ class Solution:
                 if t<k and dp[t][2] != -inf:
                     tmpdp[t+1][0]=max(tmpdp[t+1][0], dp[t][2]-price)
             dp = tmpdp
-        print(dp)
+        # print(dp)
         return max(dp[t][0] for t in range(k+1))
