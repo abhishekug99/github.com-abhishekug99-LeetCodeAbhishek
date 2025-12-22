@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1018-largest-perimeter-triangle) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0826-soup-servings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0954-maximum-sum-circular-subarray) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1250-longest-common-subsequence) |
