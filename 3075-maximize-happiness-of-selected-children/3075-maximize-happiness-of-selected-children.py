@@ -6,7 +6,7 @@ class Solution:
             if k and (happiness[i]-i)>=0:
                 # print(happiness[i])
                 res+=(happiness[i]-i)
-                print(res)
+                # print(res)
                 k-=1
             elif k==0:
                 return res
