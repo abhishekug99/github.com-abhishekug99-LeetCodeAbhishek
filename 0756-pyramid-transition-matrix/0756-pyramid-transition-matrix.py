@@ -3,7 +3,7 @@ class Solution:
         substrMap  = defaultdict(list)
         for pattern in allowed:
             substrMap[(pattern[0],pattern[1])].append(pattern[2])
-
+        @lru_cache
         def dfs(curr, i, above)->bool:
             if len(curr)==1:
                 return True
