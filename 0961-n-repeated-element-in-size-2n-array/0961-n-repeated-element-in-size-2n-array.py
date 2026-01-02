@@ -9,12 +9,9 @@ class Solution:
         
         cnts1={}
         for v in nums:
-            if v not in cnts1:
-                cnts1[v]=1
-            elif v in cnts1 and cnts1[v]==n-1:
-                return v  
-            
-            cnts1[v]+=1
+            cnts1[v] = cnts1.get(v, 0) + 1
+            if cnts1[v] == n-1:
+                return v
             
 
 
