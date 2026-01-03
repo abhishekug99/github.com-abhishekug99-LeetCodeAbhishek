@@ -997,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
