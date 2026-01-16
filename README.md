@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1318,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0900-reordered-power-of-2) |
 | [1925-count-square-sum-triples](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Number Theory
 |  |
