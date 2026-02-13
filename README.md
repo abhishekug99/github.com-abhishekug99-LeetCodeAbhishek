@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3721-longest-balanced-subarray-ii) |
 | [3863-power-grid-maintenance](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3863-power-grid-maintenance) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -1350,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
