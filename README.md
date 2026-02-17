@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0756-pyramid-transition-matrix) |
+| [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0759-set-intersection-size-at-least-two) |
 | [0772-construct-quad-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0772-construct-quad-tree) |
+| [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0840-magic-squares-in-grid) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0756-pyramid-transition-matrix) |
+| [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [0840-magic-squares-in-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0900-reordered-power-of-2) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0759-set-intersection-size-at-least-two) |
+| [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [0900-reordered-power-of-2](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0900-reordered-power-of-2) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1018-largest-perimeter-triangle) |
@@ -840,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1048,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0826-soup-servings) |
@@ -1307,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0212-word-search-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1397-search-suggestions-system) |
 ## String Matching
 |  |
