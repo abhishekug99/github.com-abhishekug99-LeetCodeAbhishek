@@ -18,10 +18,6 @@ class Solution:
         for n in range(left, right+1):
             if isPrime(n):
                 res+=1
-            # if isPrime(right):
-            #     res+=1
-            # left+=1
-            # right-=1
 
         return res
 
