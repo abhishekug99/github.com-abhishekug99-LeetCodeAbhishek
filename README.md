@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0380-insert-delete-getrandom-o1) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0840-magic-squares-in-grid) |
@@ -1272,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
