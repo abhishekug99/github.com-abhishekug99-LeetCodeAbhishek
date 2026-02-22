@@ -1,34 +1,32 @@
 class RandomizedSet:
 
     def __init__(self):
-        self.lst = []
-        self.iMap = {}
+        self.store = {}
+        self.data = []
+        self.idx=0
     def insert(self, val: int) -> bool:
-        if val in self.lst:
-            return False
-        self.iMap[val] = len(self.lst)
-        self.lst.append(val)
-        return True
+        if val not in self.store:
+            self.store[val]=len(self.data)
+            self.data.append(val)
         
-#pop works in  O(1) only when we do not pass index, else it take O(n)
-    def remove(self, val: int) -> bool:
-        if val not in self.iMap:
+            return True
+        else:
             return False
-        i = self.iMap[val]
-        endVal = self.lst[-1]
-        self.lst[i] = endVal
-        self.iMap[endVal] = i
-        self.lst.pop()
-        del self.iMap[val]
-        return True
-        
-    def getRandom(self) -> int:
-        # if self.lst:
-        return random.choice(self.lst)
-        #     return True
-        # elif not self.lst:
-        #     return False
 
+    def remove(self, val: int) -> bool:
+        if val in self.store:
+            i = self.store[val]
+            end = self.data[-1]
+            self.data[i] = end
+            self.store[end] = i
+            self.data.pop()
+            del self.store[val]
+            return True
+        else:
+            return False
+
+    def getRandom(self) -> int:
+        return random.choice(self.data)
         
 
 
