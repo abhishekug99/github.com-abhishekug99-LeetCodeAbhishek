@@ -9,7 +9,7 @@ class Solution:
         if not root:
             return None
         binaryStr =''
-        res = 0
+        self.res = 0
         def dfs(root,binaryStr): 
             if not root:
                 return
@@ -17,8 +17,8 @@ class Solution:
             dfs(root.left, binaryStr)
             dfs(root.right, binaryStr)
             if not root.right and not root.left:
-                nonlocal res
-                res += int(binaryStr,2)
-            return res
+                
+                self.res += int(binaryStr,2)
+            return self.res
         
         return dfs(root, binaryStr)
