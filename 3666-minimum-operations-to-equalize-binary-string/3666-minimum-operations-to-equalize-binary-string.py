@@ -10,8 +10,8 @@ class Solution:
             return -1
         
         if k == n:
-            flipped = ''.join('1' if c == '0' else '0' for c in s)
-            return 1 if flipped.count('0') == 0 else -1
+            f = ''.join('1' if c == '0' else '0' for c in s)
+            return 1 if f.count('0') == 0 else -1
         
         if k == 1:
             return z
@@ -20,20 +20,20 @@ class Solution:
         
         for ops in range(t, n + 1):
             
-            total_flips = ops * k
+            totalflips = ops * k
             
-            if total_flips < z:
+            if totalflips < z:
                 continue
             
-            if (total_flips - z) % 2 != 0:
+            if (totalflips - z) % 2 != 0:
                 continue
             
             if ops % 2 == 0:
-                max_sum = z * (ops - 1) + (n - z) * ops
+                maxSum = z * (ops - 1) + (n - z) * ops
             else:
-                max_sum = z * ops + (n - z) * (ops - 1)
+                maxSum = z * ops + (n - z) * (ops - 1)
             
-            if total_flips <= max_sum:
+            if totalflips <= maxSum:
                 return ops
         
         return -1
