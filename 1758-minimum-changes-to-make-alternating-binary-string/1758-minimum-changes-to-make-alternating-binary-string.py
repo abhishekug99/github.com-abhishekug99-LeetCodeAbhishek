@@ -1,16 +1,14 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        alt1 = 0  
-        alt2 = 0  
-
-        for i in range(len(s)):
-            if s[i] != str(i % 2):
-                alt1 += 1
-            if s[i] != str((i + 1) % 2):
-                alt2 += 1
-
-        return min(alt1, alt2)
-        
+        cnt = 0
+        for i in range (len(s)):
+            if i % 2:
+                if s[i] == "0":
+                    cnt += 1
+            else:
+                if s[i] == "1":
+                    cnt +=1
+        return min(cnt,len(s) - cnt)
         # if len(s) == 2 and len(set(s)) == 2:
         #     return 0
         # else:
