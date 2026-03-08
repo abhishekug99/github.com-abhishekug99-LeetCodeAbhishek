@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1894-merge-strings-alternately) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1980-find-unique-binary-string) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2058-concatenation-of-array) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2169-simple-bank-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -917,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1160-letter-tile-possibilities) |
+| [1980-find-unique-binary-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2802-find-the-punishment-number-of-an-integer) |
