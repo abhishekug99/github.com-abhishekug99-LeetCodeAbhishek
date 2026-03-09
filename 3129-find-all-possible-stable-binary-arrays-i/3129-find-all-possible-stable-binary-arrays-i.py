@@ -10,11 +10,11 @@ class Solution:
             
             res=0 
             if lastWasOne:
-                l=1
+                
                 for l in range(1, min(limit, zerosLeft) + 1):
                     res = (res + solve(onesLeft, zerosLeft - l, 0, limit)) % MOD
             else:
-                l=1
+            
                 for l in range(1, min(limit, onesLeft) + 1):
                     res = (res + solve(onesLeft - l, zerosLeft, 1, limit)) % MOD
             t[onesLeft][zerosLeft][lastWasOne] = res
