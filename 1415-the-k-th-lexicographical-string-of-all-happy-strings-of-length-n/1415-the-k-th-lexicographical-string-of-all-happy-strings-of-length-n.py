@@ -4,6 +4,7 @@ class Solution:
             res = 'abc'
             return res[k-1] if k<=3 else ''
         possible = itertools.product('abc', repeat=n)
+        
         happies = []
 
         def ishappy(tup):
@@ -16,6 +17,6 @@ class Solution:
             if ishappy(tup):
                 happies.append(tup)
         
-        print(len(happies))
+        # print(len(happies))
         return ''.join(happies[k-1]) if len(happies)>=k else  '' 
               
