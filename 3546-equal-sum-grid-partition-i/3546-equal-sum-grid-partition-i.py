@@ -1,8 +1,6 @@
 class Solution:
     def canPartitionGrid(self, grid: List[List[int]]) -> bool:
         n, m = len(grid), len(grid[0])
-        
-        # Row sums
         horizontal = [sum(row) for row in grid]
         total = sum(horizontal)
         
