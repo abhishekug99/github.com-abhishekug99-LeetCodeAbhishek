@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
 | [2573-find-the-string-with-lcp](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3110-score-of-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3110-score-of-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
