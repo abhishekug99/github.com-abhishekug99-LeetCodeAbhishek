@@ -7,7 +7,7 @@ class Solution:
         d = 0
         res = 0
         obstacles = {tuple(o) for o in obstacles} #set comprehension
-        print(obstacles)
+        # print(obstacles)
         for c in commands:
             if c==-1:
                 d = (d+1)%4 #used mod for not to go outof bound from direction index
