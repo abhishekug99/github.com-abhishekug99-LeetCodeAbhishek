@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2573-find-the-string-with-lcp](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2573-find-the-string-with-lcp) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2636-maximum-subsequence-score) |
 | [2751-robot-collisions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2751-robot-collisions) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
