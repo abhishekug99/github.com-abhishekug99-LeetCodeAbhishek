@@ -5,6 +5,7 @@ class Solution:
         cnt1=0
         cnt2=0
         n = len(words)
+        
         i=startIndex
         while True:
             if words[i] == target:
@@ -12,6 +13,7 @@ class Solution:
             
             i = ((i + 1) % n)
             cnt1+=1
+        
         i=startIndex
         while True:
             if words[i] == target:
