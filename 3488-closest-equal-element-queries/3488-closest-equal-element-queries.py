@@ -10,16 +10,16 @@ class Solution:
 
         for q in queries:
             curr = nums[q]
-            positions = mapnums[curr]
+            idxPos = mapnums[curr]
 
-            if len(positions) == 1:
+            if len(idxPos) == 1:
                 res.append(-1)
                 continue
 
-            idx = bisect_left(positions, q)
+            idx = bisect_left(idxPos, q)
 
-            left = positions[idx - 1]  # circular left
-            right = positions[(idx + 1) % len(positions)]  # circular right
+            left = idxPos[idx - 1]  # circular left
+            right = idxPos[(idx + 1) % len(idxPos)]  # circular right
 
             d1 = abs(q - left)
             d2 = abs(q - right)
