@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2487-optimal-partition-of-string) |
 | [2615-sum-of-distances](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2784-check-if-array-is-good](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2636-maximum-subsequence-score](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2636-maximum-subsequence-score) |
 | [2751-robot-collisions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3074-apple-redistribution-into-boxes) |
