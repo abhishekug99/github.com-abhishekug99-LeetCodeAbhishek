@@ -1,5 +1,6 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
+        #O(n)
         n = len(A)
         freq = {}
         common = 0
