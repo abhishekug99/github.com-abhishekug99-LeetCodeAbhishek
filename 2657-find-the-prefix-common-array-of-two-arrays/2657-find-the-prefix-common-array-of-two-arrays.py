@@ -11,7 +11,7 @@ class Solution:
         for i in range(n):
             bdict[i] = B[:i+1]
 
-        print(adict)
+        # print(adict)
         for i in range(len(A)):
             common = list(set(adict[i]) & set(bdict[i]))
             res[i] = len(common)
