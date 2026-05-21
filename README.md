@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3110-score-of-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3074-apple-redistribution-into-boxes) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3488-closest-equal-element-queries](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3488-closest-equal-element-queries) |
@@ -1572,6 +1575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/0792-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1397-search-suggestions-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
