@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2169-simple-bank-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2169-simple-bank-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2206-detonate-the-maximum-bombs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2169-simple-bank-system](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2402-meeting-rooms-iii) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1382-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/abhishekug99/github.com-abhishekug99-LeetCodeAbhishek/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
